@@ -15,6 +15,10 @@ html {
     margin-top: 150px;
 }
 
+.footer {
+  margin-top: 50px;
+}
+
 .image-cropper {
   width: 100px;
   height: 100px;
@@ -79,4 +83,17 @@ h2 {
 .links .link:hover {
   color: #BC9047;
   background-color: transparent;
+}
+
+h3 {
+  color: rgb(6, 136, 129);
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.footertext {
+  color: rgb(6, 136, 129);
+  font-size: 13px;
 }
